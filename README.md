@@ -1,5 +1,7 @@
 # C-Programming-Exercise-Seven-Segment-Digital-Clock-Simulator-
 
+# Academic Integrity Note: This code was developed as an individual assignment for the University of Birmingham (School of Engineering). It relies strictly on techniques discussed in lectures, labs, and the official study guide.
+
 ## Overview
 This repository contains the C source code for **Exercise B** of the Computing for Engineers Assessed Lab 1. The program simulates the behavior of a digital clock constructed from four seven-segment LED displays. It reads a 24-hour clock time from the user, validates it, and dynamically calculates the specific electronic segments that must be activated to display the digits `1`, `2`, and `3`.
 
@@ -55,4 +57,4 @@ Digit 4 ignored
 Enter 24-hour clock time: 9990
 End of the program
 
-Academic Integrity Note: This code was developed as an individual assignment for the University of Birmingham (School of Engineering). It relies strictly on techniques discussed in lectures, labs, and the official study guide.
+
