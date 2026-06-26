@@ -54,3 +54,5 @@ Digit 3 needs 11 12 13 15 16
 Digit 4 ignored
 Enter 24-hour clock time: 9990
 End of the program
+
+Academic Integrity Note: This code was developed as an individual assignment for the University of Birmingham (School of Engineering). It relies strictly on techniques discussed in lectures, labs, and the official study guide.
